@@ -26,6 +26,7 @@ this best.pt is already a train model can use
 find the runs/train model best.pt you can copy current directory
 
 ### before detect
-
+![img](https://github.com/leolee1204/yolov8/blob/3684fbdfb14da8f030fff065f22e7356cd4f7010/dog3.JPG)
 
 ### after detect
+![img](https://github.com/leolee1204/yolov8/blob/3684fbdfb14da8f030fff065f22e7356cd4f7010/dog3_finish.JPG)
